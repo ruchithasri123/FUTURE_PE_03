@@ -8,27 +8,26 @@ This project uses AI to generate SEO-optimized blog content, keyword research, a
 
 ## Business Details
 
-### Business Type
-Online Learning Platform
-
 ### Business Name
 SkillUp Academy
 
+### Business Type
+Online Learning Platform
+
 ### Target Audience
-- College Students
+- Students
 - Working Professionals
 - Job Seekers
 - Career Changers
-- Lifelong Learners
 
 ### Location
-India
+Hyderabad
 
 ### Industry
 Education Technology (EdTech)
 
 ### Goal
-Increase website traffic, improve search engine rankings, and attract new learners through SEO content.
+Increase website traffic, improve search engine rankings, and attract learners through SEO content.
 
 ---
 
@@ -36,37 +35,20 @@ Increase website traffic, improve search engine rankings, and attract new learne
 
 Act as an expert SEO strategist and content marketer.
 
-Generate the following for the business provided:
-
-### 1. Keyword Research
-- Primary Keyword
-- Secondary Keywords
-- Long-Tail Keywords
-- Search Volume
-- Keyword Difficulty
-- Search Intent
-
-### 2. SEO Content Strategy
-- Blog Topic Ideas
-- Content Cluster Ideas
-- Pillar Content Suggestions
-- Internal Linking Opportunities
-
-### 3. SEO Blog Generation
 Generate:
 
-- SEO Title
-- Meta Description
-- H1 Heading
-- H2 Headings
-- H3 Headings
-- Introduction
-- Detailed Blog Content
-- FAQ Section
-- Conclusion
-- Call To Action
-
-### Business Information
+1. Primary Keyword
+2. Secondary Keywords
+3. Long-Tail Keywords
+4. Search Intent
+5. SEO Blog Title
+6. Meta Description
+7. H1 Heading
+8. H2 and H3 Outline
+9. 1000-word SEO Blog Post
+10. Internal Linking Ideas
+11. Content Cluster Ideas
+12. FAQ Section
 
 Business Name: SkillUp Academy
 
@@ -76,13 +58,7 @@ Target Audience:
 Students and Working Professionals
 
 Location:
-India
+Hyderabad
 
 Tone:
-Professional, Educational, SEO-Friendly
-
-Blog Length:
-1000–1500 Words
-
-Output Format:
-SEO Optimized Blog Post with Content Cluster Recommendations
+Professional and SEO-Friendly
